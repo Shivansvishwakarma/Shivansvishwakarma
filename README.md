@@ -13,7 +13,6 @@ I enjoy turning ideas into working projects, learning new technologies through h
 * 🌐 Building full-stack web applications
 * ⚙️ Learning backend development and REST APIs
 * 🧠 Strengthening DSA and problem-solving
-* ☁️ Exploring modern software development practices
 * 💼 Learning SAP ABAP, SAP HANA and enterprise application development
 * 🤖 Exploring AI/ML through practical projects
 
@@ -23,21 +22,27 @@ I enjoy turning ideas into working projects, learning new technologies through h
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,sql" />
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,git,github,vscode" />
-</p>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ### SAP & Enterprise Development
 
@@ -47,7 +52,6 @@ I enjoy turning ideas into working projects, learning new technologies through h
 * Core Data Services (CDS)
 * OData
 * ABAP Cloud
-* REST APIs
 * RAP
 * SQLScript / AMDP
 
@@ -79,51 +83,53 @@ A SAP-based employee leave management application covering leave requests, manag
 
 ---
 
-## 📚 Currently Learning
+### 💻 BroCode.dev
 
-```text
-DSA & Problem Solving
-        ↓
-Backend Development
-        ↓
-REST APIs & Databases
-        ↓
-Full-Stack Development
-        ↓
-SAP ABAP / RAP / ABAP Cloud
-        ↓
-Software Engineering Practices
-```
+A web-based platform focused on helping students and non-technical users build professional resumes, portfolios and custom web pages.
+
+**Tech:** React • Tailwind CSS • JavaScript
 
 ---
 
-## 🎯 My Goals
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Backend Development
+* REST APIs
+* Databases
+* Full-Stack Development
+* SAP ABAP / RAP / ABAP Cloud
+* Software Engineering Practices
+
+---
+
+## 🎯 Goals
 
 * Build production-style full-stack applications
-* Become stronger in DSA and problem solving
-* Develop solid backend development skills
-* Gain deeper expertise in SAP technologies
+* Strengthen DSA and problem-solving skills
+* Become proficient in backend development
+* Develop deeper expertise in SAP technologies
 * Contribute to open-source projects
-* Build projects that solve real-world problems
+* Build software that solves real-world problems
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivansvishwakarma&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansvishwakarma&layout=compact&hide_border=true" height="165"/>
-</p>
+![Shivans's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivansvishwakarma\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansvishwakarma\&layout=compact\&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Shivans Vishwakarma](https://www.linkedin.com/in/shivans-vishwakarma-4b90542b3/)
-* 🐙 GitHub: [@Shivansvishwakarma](https://github.com/Shivansvishwakarma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivans%20Vishwakarma-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shivans-vishwakarma-4b90542b3/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shivansvishwakarma-black?style=for-the-badge\&logo=github)](https://github.com/Shivansvishwakarma)
 
 ---
 
 ### 💡 Building, Learning, Improving.
 
-> "The best way to learn software development is to build something that forces you to understand it."
+> The best way to learn software development is to build something that forces you to understand it.
