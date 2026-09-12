@@ -83,14 +83,6 @@ A SAP-based employee leave management application covering leave requests, manag
 
 ---
 
-### 💻 BroCode.dev
-
-A web-based platform focused on helping students and non-technical users build professional resumes, portfolios and custom web pages.
-
-**Tech:** React • Tailwind CSS • JavaScript
-
----
-
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms
