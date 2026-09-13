@@ -57,32 +57,6 @@ I enjoy turning ideas into working projects, learning new technologies through h
 
 ---
 
-## 📌 Featured Projects
-
-### 🎵 Musicly
-
-A campus-focused music social platform designed to connect students through music.
-
-**Tech:** React • JavaScript • Tailwind CSS • FastAPI • Python
-
----
-
-### 🚨 ResQ AI
-
-An AI-assisted disaster-response platform designed to analyze disaster information and help identify risk zones, damaged areas and emergency priorities.
-
-**Tech:** React • FastAPI • Python • AI/ML • Leaflet • Data Visualization
-
----
-
-### 🏢 Employee Leave Management System
-
-A SAP-based employee leave management application covering leave requests, manager approval/rejection and leave balance tracking.
-
-**Tech:** SAP ABAP • SAP S/4HANA • CDS • OData • RAP
-
----
-
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms
